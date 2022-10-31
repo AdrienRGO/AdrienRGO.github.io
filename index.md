@@ -2,17 +2,17 @@
 
 ---
 
-### Category Name 1 
+### Data Science Projects
 
 [Times Series Project](/sample_page)
+# img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Brain Tumors Classification](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[Web Apps NBA Stats](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
