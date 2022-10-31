@@ -4,7 +4,7 @@
 
 ### Data Science Projects
 
-[Times Series Forecasting](/pdf/TS_Project.pdf)
+[Times Series Forecasting](/pdf/ts_project.pdf)
 
 <img src="images/times_series_forecasting.jpg?raw=true"/>
 
