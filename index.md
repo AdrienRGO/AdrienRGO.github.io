@@ -4,7 +4,7 @@
 
 ### Data Science Projects
 
-[Times Series Forecasting](/sample_page)
+[Times Series Forecasting](https://github.com/AdrienRGO/projects/blob/main/Time_Series_Project/TS_Project.ipynb)
 
 <img src="images/times_series_forecasting.jpg?raw=true"/>
 
