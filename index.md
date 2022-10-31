@@ -5,15 +5,18 @@
 ### Data Science Projects
 
 [Times Series Forecasting](/sample_page)
+
 <img src="images/times_series_forecasting.jpg?raw=true"/>
 
 ---
 [Brain Tumors Classification](/pdf/sample_presentation.pdf)
+
 <img src="images/brain_tumor.jpg?raw=true"/>
 
 ---
 [Web Apps NBA Stats](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+<img src="images/nba_stats_img.webp?raw=true"/>
 
 ---
 
