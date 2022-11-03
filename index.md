@@ -1,10 +1,13 @@
 ## Portfolio
 
+Hi there ! 
+
+A glimpse of project I've been working on.
 ---
 
-### Data Science Projects
+### **Data Science** Projects
 
-[DPAE & ESSA Times Series Forecasting](/pdf/ts_project.pdf)
+[DPAE & ESSA Times Series Forecasting**](/pdf/ts_project.pdf)
 
 <img src="images/ts_forecasting.png?raw=true"/>
 
@@ -26,13 +29,28 @@
 
 ---
 
-### Other Python Projects
+### Other **Python** Projects
 
-- [Tracking with Kalman Filter](http://example.com/)
+- [Computer Vision : Tracking with Kalman Filter](http://example.com/)
 - [API FoodCrops](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
+---
+
+### Projects in **JAVA**
+
+- [Building a supervising App for ArcelorMittal](http://example.com/)
+
+- [Calculator in Reverse Polish Notation](http://example.com/)
+
+---
+
+### Project in **C**
+
+- [Shortest Path and Finding a Pattern in a calendar](http://example.com/)
+
+- [Attribution Problem](http://example.com/)
+
+- [Resolution of a space covering problem](http://example.com/)
 
 ---
 
@@ -40,5 +58,4 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
