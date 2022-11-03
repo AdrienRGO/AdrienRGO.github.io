@@ -6,7 +6,7 @@
 
 [Times Series Forecasting](/pdf/ts_project.pdf)
 
-<img src="images/ts_forecasting.jpg?raw=true"/>
+<img src="images/ts_forecasting.png?raw=true"/>
 
 ---
 [Brain Tumors Classification](/pdf/sample_presentation.pdf)
@@ -20,10 +20,10 @@
 
 ---
 
-### Category Name 2
+### Other Python Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [Tracking with Kalman Filter](http://example.com/)
+- [](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
