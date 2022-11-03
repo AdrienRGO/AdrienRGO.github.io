@@ -32,6 +32,7 @@ A glimpse of project I've been working on.
 ### Other **Python** Projects
 
 - [Computer Vision : Tracking with Kalman Filter](http://example.com/)
+
 - [API FoodCrops](http://example.com/)
 
 ---
