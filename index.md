@@ -1,8 +1,8 @@
 ## Portfolio
 
 Hi there ! 
-
 A glimpse of project I've been working on.
+
 ---
 
 ### **Data Science** Projects
