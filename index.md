@@ -6,12 +6,12 @@
 
 [Times Series Forecasting](/pdf/ts_project.pdf)
 
-<img src="images/times_series_forecasting.jpg?raw=true"/>
+<img src="images/ts_forecasting.jpg?raw=true"/>
 
 ---
 [Brain Tumors Classification](/pdf/sample_presentation.pdf)
 
-<img src="images/brain_tumor.jpg?raw=true"/>
+<img src="images/Tumor.jpg?raw=true"/>
 
 ---
 [Web Apps NBA Stats](http://example.com/)
