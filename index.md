@@ -1,7 +1,7 @@
 ## Portfolio
 
 Hi there ! 
-A glimpse of project I've been working on.
+Here is a glimpse of projects I've been working on.
 
 ---
 
@@ -39,19 +39,19 @@ A glimpse of project I've been working on.
 
 ### Projects in **JAVA**
 
-- [Building a supervising App for ArcelorMittal](http://example.com/)
+- [Building a supervising App for ArcelorMittal](https://github.com/AdrienRGO/ArcelorMittal_Application.git)
 
-- [Calculator in Reverse Polish Notation](http://example.com/)
+- [Calculator in Reverse Polish Notation](https://github.com/AdrienRGO/Reverse_Polish_Notation_Calculator.git)
 
 ---
 
 ### Project in **C**
 
-- [Shortest Path and Finding a Pattern in a calendar](http://example.com/)
+- [Shortest Path and Finding a Pattern in a calendar](https://github.com/AdrienRGO/Calendar_Pattern_Shortest_Path.git)
 
-- [Attribution Problem](http://example.com/)
+- [Attribution Problem](https://github.com/AdrienRGO/Complexity-Recursion_Attribution.git)
 
-- [Resolution of a space covering problem](http://example.com/)
+- [Resolution of a space covering problem](https://github.com/AdrienRGO/Complexity-Recursion_Covering.git)
 
 ---
 
