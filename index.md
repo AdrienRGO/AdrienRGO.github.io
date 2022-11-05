@@ -16,12 +16,12 @@ Here is a glimpse of projects I've been working on.
 <img src="images/housepricing.jpeg?raw=true"/>
 
 ---
-[Brain Tumors Classification](/pdf/sample_presentation.pdf)
+[Brain Tumors Classification](https://github.com/AdrienRGO/Brain_Tumors_Classification.git)
 
 <img src="images/Tumor.jpg?raw=true"/>
 
 ---
-[Web Apps NBA Stats](http://example.com/)
+[Web Apps NBA Stats](https://github.com/AdrienRGO/WebApp_NBAStats.git)
 
 <img src="images/nba_stats_img.webp?raw=true"/>
 
