@@ -7,7 +7,7 @@ A glimpse of project I've been working on.
 
 ### **Data Science** Projects
 
-[DPAE & ESSA Times Series Forecasting**](/pdf/ts_project.pdf)
+[DPAE & ESSA Times Series Forecasting](/pdf/ts_project.pdf)
 
 <img src="images/ts_forecasting.png?raw=true"/>
 
@@ -33,7 +33,7 @@ A glimpse of project I've been working on.
 
 - [Computer Vision : Tracking with Kalman Filter](http://example.com/)
 
-- [API FoodCrops](http://example.com/)
+- [API FoodCrops](https://github.com/AdrienRGO/API_FoodCrops.git)
 
 ---
 
