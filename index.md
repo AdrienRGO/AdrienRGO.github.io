@@ -16,7 +16,9 @@ Here is a glimpse of projects I've been working on.
 <img src="images/housepricing.jpeg?raw=true"/>
 
 ---
-[Brain Tumors Classification](https://github.com/AdrienRGO/Brain_Tumors_Classification.git)
+[Brain Tumors Classification](brain_tumors_classification.md)
+
+#https://github.com/AdrienRGO/Brain_Tumors_Classification.git
 
 <img src="images/Tumor.jpg?raw=true"/>
 
