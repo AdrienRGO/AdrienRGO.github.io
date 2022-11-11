@@ -1,22 +1,17 @@
 # WebApp_NBAStats
 
-## **1. About this project**
-
 Everything is explained in the pdf file named "ProjectReport". However, as it is written in French, this README file will explain the main points in English. The code is available [here](https://github.com/AdrienRGO/WebApp_NBAStats.git).
 
-We have at our disposal : 
+The code desing is divided in four main parts : 
   - An excel file **NBA_data_R** containing all the information of the NBA players
   - A **global** file that allows to define variables that can be used in both the server part and the interface part (renaming, package import, etc...)
   - A **server** file which will contain all the functions and actions proposed to the user (display, selection, etc...)
   - A **ui** file which simply allows to create the interface available to the user
 
-This project was done in a school setting with another classmate. The subject was free.   
-I had already built a database of NBA players with different statistics, we decided to re-use it to propose a visualization topic from this web app.
 
-## **2. Origins and interests for the project**
+## **1. Origins and interests for the project**
 
-Basketball, invented by James Naismith in 1891, is rapidly becoming more and more popular in North America. In 1949, the National Basketball Association (NBA) was born, which today is one of the four major leagues in American sports.   
-We have an interest in sports and especially in the NBA. That's why we decided to study the salaries of the players according to their sports performances.
+My teammate and I have an interest in sports and especially in the NBA. That's why we decided to study the salaries of the players according to their sports performances.
 
 Seeing the astronomical salaries of many players, we asked ourselves for the data collection and storage project:  
 
@@ -24,17 +19,17 @@ Seeing the astronomical salaries of many players, we asked ourselves for the dat
 
 Unfortunately, as a result of the health crisis, the **seasons were disrupted**, so we had to revert to a so-called "regular" year. Therefore, we will be looking at the **regular season for the 2018-2019 year**.
 
-## **3. Our R-shiny web app**
+## **2. Project Description**
 
 The purpose of our application is to **display and study descriptive and sports statistics** related to players and teams.  
-This will allow the user to have an idea of the capacities of the entities concerned with the **possibility to compare them and get an idea of the relative level between the players** and the prestige of a team. 
-There are 4 pages in our application : 
+It gives the **possibility to compare the NBA players and get an idea of the relative level between them**. 
+There are 4 pages in our web app : 
 
-  ### **1. Comparison between players**
+  ### **1. Players Comparison**
 
-The idea behind this first page is to **compare two players from a statistical point of view**.   
+In the first page, we **compare two players from a statistical point of view**.   
 Of course, it is possible to select only one player to study only his performance. 
-There are several charts:
+We can compare palyers through several charts:
   - A Kiviat diagram for the performances during an established match
   - A second Kiviat diagram for the performances established with percentages
   - A histogram that displays the salary associated with each player
@@ -44,11 +39,11 @@ There are several charts:
   <img src="https://user-images.githubusercontent.com/105392989/174280275-1b5ca6b7-c38f-4cc1-9b45-9d5105a88311.png" width="950">
 </div>
   
-  ### **2. Comparison between teams**
+  ### **2. Teams Comparison**
   
-Now that we are interested in the players through the first page, we wanted to look at **statistics by comparing NBA teams**.  
-For this we take the statistics of the players attached to the same team and we average each of the characteristics to have the same basis for
-comparison. Of course this average thing is totally debatable but we didn't think of another category.
+In the second page and after focusing the palyer scale, we want here to retrieve **statistics of NBA teams** in order to **compare them**.  
+To do so, we take the statistics of the players attached to the same team and we average each of the characteristics to have the same basis for
+comparison. Note that taking the mean was arbitrary and other methods could be performed to achieve these comparisons of teams.
 
 Our graph is a bubble chart that will position the teams in a space according to **two characteristics**. In parallel to the two characteristics, we give the user the possibility to **filter the teams** and all the teams that do not belong to the conditions of these filters will not be considered for the display.
 
@@ -66,9 +61,12 @@ In reality, it is a simple **glossary**.
   <img src="https://user-images.githubusercontent.com/105392989/174280808-ab3076cd-40ef-48ef-92e0-2a67a559ce67.png" width="950">
 </div>
 
-## **4. Ways to improve our project**
+## **3. Ways to improve our project**
 
-We are well aware that this project can be much more **driven and complete**. Here are some ideas on how to improve it:
+We are well aware that this project can be much more **driven and complete**. Indeed, this project was performed with a short deadline so we could go too deep in the app as the aim of this particular project was to understand the process of build a Shiny App. 
+
+As a consequence, this project could obviously be carried on. 
+Here are some ideas on how to improve it:
 
   - Offer a part of **machine learning** with **supervised learning
   supervised** learning. 
