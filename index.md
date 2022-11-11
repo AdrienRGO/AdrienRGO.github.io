@@ -31,7 +31,7 @@ Here is a glimpse of projects I've been working on.
 
 ### Other **Python** Projects
 
-- [Computer Vision : Tracking with Kalman Filter](https://github.com/AdrienRGO/Kalman_Filter.git)
+- [Computer Vision : Tracking with Kalman Filter](kalman.md)
 
 - [API FoodCrops](https://github.com/AdrienRGO/API_FoodCrops.git)
 
