@@ -2,7 +2,7 @@
 
 ## **1. About this project**
 
-This school project was proposed to **handle time series**. We can get the code here : https://github.com/AdrienRGO/DPAE_ESSA_Times_Series_Forecasting
+This school project was proposed to **handle time series**. The code is available [here](https://github.com/AdrienRGO/DPAE_ESSA_Times_Series_Forecasting).
 
 
 In this project, we face **two databases**: 

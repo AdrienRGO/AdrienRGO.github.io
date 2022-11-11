@@ -2,7 +2,7 @@
 
 ## **1. About this project**
 
-Everything is explained in the pdf file named "ProjectReport". However, as it is written in French, this README file will explain the main points in English.  The code is available at this link : https://github.com/AdrienRGO/WebApp_NBAStats.git
+Everything is explained in the pdf file named "ProjectReport". However, as it is written in French, this README file will explain the main points in English. The code is available [here](https://github.com/AdrienRGO/WebApp_NBAStats.git).
 
 We have at our disposal : 
   - An excel file **NBA_data_R** containing all the information of the NBA players
@@ -64,16 +64,6 @@ In reality, it is a simple **glossary**.
 
 <div id="3rd page" align = "center">
   <img src="https://user-images.githubusercontent.com/105392989/174280808-ab3076cd-40ef-48ef-92e0-2a67a559ce67.png" width="950">
-</div>
-
-  ### **4. Introduction to the developers**
-  
-This last tab represents a **contact page**.   
-Indeed, it allows us to present ourselves with a photo and an email address to _enter in contact if necessary_. Also, the **Linked profile** has been made available through a simple click.  
-We also propose a OneDrive link to group all the elements that constitute this project (potentially closed since) 
-
-<div id="4th page" align = "center">
-  <img src="https://user-images.githubusercontent.com/105392989/174280863-c963fc69-ca22-4670-90d7-ecbfa5d9b6a8.png" width="950">
 </div>
 
 ## **4. Ways to improve our project**
