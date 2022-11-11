@@ -21,11 +21,11 @@ In this project, we face **two databases**:
   
 This project will be addressed in several points, namely: 
 
-  1. A **pre-processing of the data** with a first step of cleaning, formatting and visualization of the data
-  2. Evaluation of the **seasonality** and **correlation** of some time series
-  3. A prediction thanks to **exponential smoothing**.
+  1. A **pre-processing of the data** including cleaning, formatting and visualizing the data
+  2. Evaluate the **seasonality** and the **correlation** of time series
+  3. Time series forecasting using the **exponential smoothing** method.
   4. An **evaluation of the prediction** previously made
-  5. The **use of other models** for a new prediction 
+  5. Comparison of this prediction with **other methods** 
 
 This project was done in a school context with two other classmates.
 

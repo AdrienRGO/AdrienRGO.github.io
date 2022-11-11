@@ -14,7 +14,7 @@ This project was done in a school context with another classmate. The idea was t
   
 ## **2. The principle of this filter**
 
-This filter was developed by **Rudolf Emil Kalman** in the 60s. As mentioned in the introduction, this filter is an algorithm that will try to predict the state of a moving system.
+This filter was developed by **Rudolf Emil Kalman** in the 60s. As mentioned in the introduction, it is an algorithm that will try to predict the state of a moving system.
 
 <div id="Rudolf Emil Kalman" align = "center">
   <img src="https://user-images.githubusercontent.com/105392989/177523647-51424aa5-acbc-495d-aa0f-e6af896cce29.png" width="300">
