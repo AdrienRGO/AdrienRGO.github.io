@@ -7,7 +7,7 @@ Here is a glimpse of projects I've been working on.
 
 ### **Data Science** Projects
 
-[DPAE & ESSA Times Series Forecasting](/pdf/ts_project.pdf)
+[DPAE & ESSA Times Series Forecasting](DPAE_ESSA_ts_forecast.md)
 
 <img src="images/ts_forecasting.png?raw=true"/>
 
@@ -18,12 +18,10 @@ Here is a glimpse of projects I've been working on.
 ---
 [Brain Tumors Classification](brain_tumors_classification.md)
 
-#https://github.com/AdrienRGO/Brain_Tumors_Classification.git
-
 <img src="images/Tumor.jpg?raw=true"/>
 
 ---
-[Web Apps NBA Stats](https://github.com/AdrienRGO/WebApp_NBAStats.git)
+[Web Apps NBA Stats](webapp_nba.md)
 
 <img src="images/nba_stats_img.webp?raw=true"/>
 

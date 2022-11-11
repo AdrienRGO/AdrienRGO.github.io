@@ -1,8 +1,8 @@
-# DeepLearning_BrainTumorsClassification
+# Brain Tumors Classification
 
 ## **1. About this project**
 
-Everything is explained in the pdf file named "**ProjectReport**". However, as it is written in French, this README file will explain the main points in English.
+Everything is explained in the pdf file named "**ProjectReport**". However, as it is written in French, this README file will explain the main points in English. The code is available here : https://github.com/AdrienRGO/Brain_Tumors_Classification.git
 Let's start with a short presentation of the different files:
 
 1. **Folders**
