@@ -30,7 +30,7 @@ The purpose of our application is to **display and study descriptive and sports 
 This will allow the user to have an idea of the capacities of the entities concerned with the **possibility to compare them and get an idea of the relative level between the players** and the prestige of a team. 
 There are 4 pages in our application : 
 
-  #### **1. Comparison between players**
+  ### **1. Comparison between players**
 
 The idea behind this first page is to **compare two players from a statistical point of view**.   
 Of course, it is possible to select only one player to study only his performance. 
@@ -44,7 +44,7 @@ There are several charts:
   <img src="https://user-images.githubusercontent.com/105392989/174280275-1b5ca6b7-c38f-4cc1-9b45-9d5105a88311.png" width="950">
 </div>
   
-  #### **2. Comparison between teams**
+  ### **2. Comparison between teams**
   
 Now that we are interested in the players through the first page, we wanted to look at **statistics by comparing NBA teams**.  
 For this we take the statistics of the players attached to the same team and we average each of the characteristics to have the same basis for
@@ -56,7 +56,7 @@ Our graph is a bubble chart that will position the teams in a space according to
   <img src="https://user-images.githubusercontent.com/105392989/174280709-ab1cd432-2d62-4e72-bb4d-fdad8b48d9fc.png" width="950">
 </div>
 
-  #### **3. Data description**
+  ### **3. Data description**
   
 This page does not offer many features.  
 It simply allows the user to **get acquainted with the language and lexicon** used in the NBA world to define and categorize sports performances during different seasons.  
@@ -66,7 +66,7 @@ In reality, it is a simple **glossary**.
   <img src="https://user-images.githubusercontent.com/105392989/174280808-ab3076cd-40ef-48ef-92e0-2a67a559ce67.png" width="950">
 </div>
 
-  #### **4. Introduction to the developers**
+  ### **4. Introduction to the developers**
   
 This last tab represents a **contact page**.   
 Indeed, it allows us to present ourselves with a photo and an email address to _enter in contact if necessary_. Also, the **Linked profile** has been made available through a simple click.  
